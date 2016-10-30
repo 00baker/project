@@ -1,6 +1,10 @@
 import fresh
 import movies
 
+"""
+for the movies
+""" 
+
 toy_story = movies.Movie("Toy Story",
 	"Story",
 	"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
